@@ -4,8 +4,35 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bAPQuoSnaYydbzvkEYjN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bAPQuoSnaYydbzvkEYjN-1" target="bAPQuoSnaYydbzvkEYjN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bAPQuoSnaYydbzvkEYjN-1" value="App1.java" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="68" y="82" width="79" height="31" as="geometry" />
+          <mxGeometry x="193" y="93" width="79" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="bAPQuoSnaYydbzvkEYjN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bAPQuoSnaYydbzvkEYjN-2" target="bAPQuoSnaYydbzvkEYjN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAPQuoSnaYydbzvkEYjN-2" value="App1.class" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374.5" y="93" width="79" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="bAPQuoSnaYydbzvkEYjN-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Java Virtual Machine&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="148" y="207" width="532" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="bAPQuoSnaYydbzvkEYjN-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Windowns&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="178" y="332" width="94" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="bAPQuoSnaYydbzvkEYjN-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Linux&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="332" width="94" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="bAPQuoSnaYydbzvkEYjN-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;MacOS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="556" y="332" width="94" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="bAPQuoSnaYydbzvkEYjN-9" value="javac" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="293" y="72" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAPQuoSnaYydbzvkEYjN-10" value="JDK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="293" y="116" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
