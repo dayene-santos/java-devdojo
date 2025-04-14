@@ -1,6 +1,6 @@
 package Introducao;
 
-public class Aula04OperadoresAritmeticos {
+public class Aula04Operadores1Aritmeticos {
     public static void main(String[] args) {
         // Operadores Aritméticos
         // + - / * -> soma, subtração, divisão, multiplicação

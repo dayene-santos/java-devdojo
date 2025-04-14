@@ -1,6 +1,6 @@
 package Introducao;
 
-public class Aula04OperadoresLogicos {
+public class Aula04Operadores3Logicos {
     public static void main(String[] args) {
 
         // && -> And

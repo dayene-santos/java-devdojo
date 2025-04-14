@@ -1,4 +1,5 @@
 package Introducao;
 
-public class AAula04Operadores4Atribuicao {
+public class Aula04Operadores4Atribuicao {
+
 }

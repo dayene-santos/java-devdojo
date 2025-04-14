@@ -1,6 +1,6 @@
 package Introducao;
 
-public class Aula04OperadoresRelacionais {
+public class Aula04Operadores2Relacionais {
     public static void main(String[] args) {
 
         // < > <= >= == !=  -> menor, maior, menor ou igual, maior ou igual, igual, diferente de
