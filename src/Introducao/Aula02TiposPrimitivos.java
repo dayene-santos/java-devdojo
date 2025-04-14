@@ -2,7 +2,7 @@ package Introducao;
 
 public class Aula02TiposPrimitivos {
     public static void main(String[] args) {
-
+        // Tipos primitivos
         // int, double, float, char, byte, short, long, boolean
         int idade = 28;
         double altura = 1.64;
