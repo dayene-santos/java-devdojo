@@ -16,5 +16,6 @@ public class Aula04Operadores2Relacionais {
         System.out.println("isDezIgualVinte " + isDezIgualVinte);
         System.out.println("isDezIgualDez " + isDezIgualDez);
         System.out.println("isDezDiferenteDez " + isDezDiferenteDez);
+
     }
 }
