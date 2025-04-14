@@ -1,6 +1,6 @@
 package Introducao;
 
-public class Aula04Operadores {
+public class Aula04OperadoresAritmeticos {
     public static void main(String[] args) {
         // Operadores Aritméticos
         // + - / * -> soma, subtração, divisão, multiplicação
@@ -22,18 +22,6 @@ public class Aula04Operadores {
         int resto = 21 % 7;
         System.out.println("Resto da divisão: " + resto);
         System.out.println("-----------------------------");
-        // < > <= >= == !=  -> menor, maior, menor ou igual, maior ou igual, igual, diferente de
 
-        boolean isDezMaiorQueVinte = 10 > 20;
-        boolean isDezMenorQueVinte = 10 < 20;
-        boolean isDezIgualVinte = 10 == 20;
-        boolean isDezIgualDez = 10 == 10;
-        boolean isDezDiferenteDez = 10 != 10;
-
-        System.out.println("isDezMaiorQueVinte " + isDezMaiorQueVinte);
-        System.out.println("isDezMenorQueVinte " + isDezMenorQueVinte);
-        System.out.println("isDezIgualVinte " + isDezIgualVinte);
-        System.out.println("isDezIgualDez " + isDezIgualDez);
-        System.out.println("isDezDiferenteDez " + isDezDiferenteDez);
     }
 }
