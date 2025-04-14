@@ -22,5 +22,6 @@ public class Aula04Operadores3Logicos {
         boolean isPlaystationCincoCompravel = valorTotalContaCorrente > valorPlaystation || valorTotalContaPoupanca > valorTotalContaPoupanca;
 
         System.out.println("isPlaystationCincoCompravel " + isPlaystationCincoCompravel);
+
     }
 }
